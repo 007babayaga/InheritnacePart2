@@ -10,7 +10,6 @@ public class Main {
         animal.move(speed);
         System.out.println(animal);
         System.out.println("_ _ _ _");
-        System.out.println(animal);
     }
 
 
